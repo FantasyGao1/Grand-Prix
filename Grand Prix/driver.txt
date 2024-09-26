@@ -1,0 +1,6 @@
+BlusLee, 5, breaking, ture, 0
+RuoxinSun, 2, cornering, ture, 0
+SongsongXie, 4, overtaking, ture,0
+YuhanDing, 1, breaking, ture, 0
+ZehaoSun, 6, cornering, ture,0 
+Andrew, 3, overtaking, ture, 0
